@@ -3,7 +3,7 @@
 
 # (c) Copyright 2019 Brion Mario.
 # (c) This file is written as a plugin for the CSSI Core library and is made available under MIT license.
-# (c) For more information, see https://github.com/brionmario/cssi-core/blob/master/LICENSE.txt
+# (c) For more information, see https://github.com/brionmario/cssi-plugin-heart-rate/blob/master/LICENSE.txt
 # (c) Please forward any queries to the given email address. email: brion@apareciumlabs.com
 
 """

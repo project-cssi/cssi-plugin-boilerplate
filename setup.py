@@ -20,13 +20,13 @@ REQUIREMENTS = [line.strip() for line in
                 open(os.path.join("requirements.txt")).readlines()]
 
 setup(
-    name='cssi-plugin-heart-rate',
+    name='cssi_plugin_heart_rate',
     version='0.1.0',
     url='https://github.com/brionmario/cssi-plugin-heart-rate',
     description='A contributor plugin for CSSI to measure heart rate using OpenCV',
     author='Brion Mario',
     author_email='brion@apareciumlabs.com',
-    packages=['cssi-plugin-heart-rate'],
+    packages=['cssi_plugin_heart_rate'],
     install_requires=REQUIREMENTS,
     license="The MIT License (MIT)"
 )

@@ -1,12 +1,12 @@
 .. image:: ./docs/logo/cssi-logo.svg
-    :width: 600 px
+    :width: 300 px
 
 Plugin Boilerplate
 ==================
 
 Sample plugin structure for CSSI Library
 
-|  |contributors| |license| |stars| |forks| |twitter|
+|  |contributors-count| |license| |stars| |forks| |twitter|
 
 Getting Started
 ===============

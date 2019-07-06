@@ -1,5 +1,5 @@
 .. image:: ./docs/logo/cssi-logo.svg
-    :width: 250 px
+    :height: 100 px
 
 Plugin Boilerplate
 ==================

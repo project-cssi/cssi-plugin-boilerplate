@@ -77,5 +77,4 @@ This project is licensed under the MIT License - see the `LICENSE.md`_ file for 
 
 .. _CHANGELOG.md: CHANGELOG.md
 .. _CONTRIBUTING.rst: CONTRIBUTING.rst
-.. _RELEASES.rst: docs/RELEASES.rst
 .. _LICENSE.md: LICENSE.md

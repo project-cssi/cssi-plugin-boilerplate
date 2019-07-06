@@ -1,12 +1,12 @@
 .. image:: ./docs/logo/cssi-logo.svg
-    :width: 600 px
+    :width: 250 px
 
 Plugin Boilerplate
 ==================
 
 Sample plugin structure for CSSI Library
 
-|  |contributors| |license| |stars| |forks| |twitter|
+|  |contributors-count| |license| |stars| |forks| |twitter|
 
 Getting Started
 ===============
@@ -55,7 +55,7 @@ Contributors
 License
 =======
 
-This project is licensed under the MIT License - see the `LICENSE.md`_ file for details.
+This project is licensed under the MIT License - see the `LICENSE.txt`_ file for details.
 
 .. Images for the BADGES
 
@@ -77,5 +77,4 @@ This project is licensed under the MIT License - see the `LICENSE.md`_ file for 
 
 .. _CHANGELOG.md: CHANGELOG.md
 .. _CONTRIBUTING.rst: CONTRIBUTING.rst
-.. _RELEASES.rst: docs/RELEASES.rst
-.. _LICENSE.md: LICENSE.md
+.. _LICENSE.txt: LICENSE.txt

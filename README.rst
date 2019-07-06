@@ -46,8 +46,6 @@ about our code of conduct.
 Contributors
 ============
 
-This project exists thanks to all the people who contribute.
-
 |  |contributors|
 
 .. |contributors| image:: https://contributors-img.firebaseapp.com/image?repo=project-cssi/cssi-plugin-boilerplate
@@ -57,7 +55,7 @@ This project exists thanks to all the people who contribute.
 License
 =======
 
-This project is licensed under the MIT License - see the `LICENSE.md`_ file for details.
+This project is licensed under the MIT License - see the `LICENSE.txt`_ file for details.
 
 .. Images for the BADGES
 

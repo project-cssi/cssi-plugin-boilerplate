@@ -1,5 +1,5 @@
 .. image:: ./docs/logo/cssi-logo.svg
-    :width: 300 px
+    :width: 250 px
 
 Plugin Boilerplate
 ==================
@@ -45,6 +45,8 @@ about our code of conduct.
 
 Contributors
 ============
+
+This project exists thanks to all the people who contribute.
 
 |  |contributors|
 
